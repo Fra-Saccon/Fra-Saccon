@@ -1,8 +1,6 @@
 ## Francesco Saccon
 
-![Francesco's GitHub stats](https://github-profile-trophy.vercel.app/?username=Fra-Saccon&theme=dracula)
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fra-Saccon&show_icons=true&theme=radical)
-
+BioAI Data Scientist @InstaDeep
 <!--
 **Fra-Saccon/Fra-Saccon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
