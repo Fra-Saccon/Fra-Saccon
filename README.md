@@ -2,11 +2,12 @@
 
 ### Currently
 
-BioAI Data Scientist @InstaDeep
+BioAI Data Scientist @[InstaDeep](https://www.instadeep.com/)
 
 ### Previously
 
-Post-doctoral researcher at Wageningen University and Research, working on plant molecular mechanisms of adaptation to a warming world.
+- Post-doctoral researcher in the [Biophysics group](https://www.wur.nl/en/research-results/chair-groups/agrotechnology-and-food-sciences/biomolecular-sciences/laboratory-of-biophysics.htm) at Wageningen University and Research, working on plant molecular mechanisms of adaptation to a warming world.
+- PhD in Biological Sciences in 2020 at Queen Mary University of London, in the laboratory of prof. [Alexander Ruban](https://research.sbcs.qmul.ac.uk/a.ruban/index.htm).
 
 ## 📫 Social Media and Other Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-saccon/)
