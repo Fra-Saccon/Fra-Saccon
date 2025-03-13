@@ -1,5 +1,10 @@
 ## Francesco Saccon
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3faf164-f19b-4715-91bc-c9793ed5eaea" width="45%" />
+  <img src="https://github.com/user-attachments/assets/37375f03-f4fc-46b4-a532-488f153851d0" width="45%" />
+</p>
+
 ### BioAI Data Scientist @[InstaDeep](https://www.instadeep.com/)
 
 **Previous positions:**
