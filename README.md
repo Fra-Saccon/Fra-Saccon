@@ -1,10 +1,8 @@
 ## Francesco Saccon
 
-### Currently
+### BioAI Data Scientist @[InstaDeep](https://www.instadeep.com/)
 
-BioAI Data Scientist @[InstaDeep](https://www.instadeep.com/)
-
-### Previously
+**Previous positions:**
 
 - Post-doctoral researcher in the [Biophysics group](https://www.wur.nl/en/research-results/chair-groups/agrotechnology-and-food-sciences/biomolecular-sciences/laboratory-of-biophysics.htm) at Wageningen University and Research, working on plant molecular mechanisms of adaptation to a warming world.
 - PhD in Biological Sciences in 2020 at Queen Mary University of London, in the laboratory of prof. [Alexander Ruban](https://research.sbcs.qmul.ac.uk/a.ruban/index.htm).
